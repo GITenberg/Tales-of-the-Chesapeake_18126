@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2119
     wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Townsend
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18126#Tales-of-the-Chesapeake
 gutenberg_issued: '2006-04-05'
 gutenberg_type: Text
 identifiers:
